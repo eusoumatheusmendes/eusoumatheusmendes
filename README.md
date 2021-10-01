@@ -6,5 +6,5 @@
 
 - 💞️ Estou procurando oportunidades de instituições que estejam alinhadas com o meu perfil e que, mesmo sabendo que a experiência é importante, valorize mais a aprendizagem contínua, a humildade de reconhecer que nunca sabe o suficiente, e saber que eventuais erros fazem parte do processo, e o que importa é assumí-los. 
 
-- 📫 matheusmendes.developer@gmail.com | Se você, possuidor da oportunidade, estiver alinhado com essas características, entre em contato para mais informações.
+- 📫 matheusmendes.developer@gmail.com | Se e somente se, você, possuidor da oportunidade, estiver alinhado com essas características, entre em contato para mais informações.
 
