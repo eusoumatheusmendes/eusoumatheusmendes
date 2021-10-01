@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou  estudando e desenvolvendo alguns projetos pessoais usando as tecnologias Java, Spring, Thymeleaf, JPA, Bootstrap, Materialize, uso de boas práticas e muito mais.  
 
-- 💞️ Estou procurando oportunidades de instituições que estejam alinhadas com o meu perfil e que, mesmo sabendo que a experiência é importante, valorize mais a aprendizagem contínua, a humildade de reconhecer que nunca sabe o suficiente, e saber que eventuais erros fazem parte do processo, e o que importa é assumí-los. 
+- 💞️ Estou procurando oportunidades de instituições que estejam alinhadas com o meu perfil e que, embasando no Manifesto Ágil, mesmo sabendo que a experiência é importante, valorize mais a aprendizagem contínua, a humildade de reconhecer que nunca sabe o suficiente, e saber que eventuais erros fazem parte do processo, e o que importa é assumí-los. 
 
 - 📫 matheusmendes.developer@gmail.com | Se e somente se, você, possuidor da oportunidade, estiver alinhado com essas características, entre em contato para mais informações.
 
